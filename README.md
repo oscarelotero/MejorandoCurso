@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Mejorandola](http://miguelnieva.com/img/mejorandola-grande.png)
 
 
@@ -14,3 +15,7 @@
 <li>Puedes dar un Fork al repositorio y estar actualizado siempre con GIT ó puedes descargar los .ZIP de cada curso, incluidos
 en su carpeta.</li>
 </li>
+=======
+![Cursos Mejorando.la](https://raw.github.com/mejorandolaclase/mejorandocurso/master/timelinecursos.jpg)
+
+>>>>>>> e9a14d2ec37109ab03ffe13c5742f6cbb052af8f
